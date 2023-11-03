@@ -5,3 +5,7 @@ These icons utilise resources from the ES-DE project as well as from the "NSO In
 
 Screenshot:
 ![Screenshot of the theme showing the icons for NeoGeo (partial), NeoGeo Pocket Color, PlayStation,  Playstation 2 and PSP (partial)](screenshot.png)
+
+To install, simply download the desired icons, and drop them into your ES-DE install folder/themes/modern-es-de/art.
+
+I am currently working on a version of these icons for GarlicOS as well!
